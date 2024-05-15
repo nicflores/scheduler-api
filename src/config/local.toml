@@ -1,0 +1,3 @@
+database_url = "postgresql://postgres:postgres@localhost:5432/postgres"
+api_key = "E9bsm1uT5F8U3jTI"
+log_level = "info"
